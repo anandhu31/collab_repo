@@ -1,3 +1,4 @@
+lion contributor_a
 lion contributorB
 tiger
 leopard
